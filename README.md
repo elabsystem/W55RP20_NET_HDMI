@@ -24,5 +24,5 @@ https://maker.wiznet.io/nexp/contest/ultra%2Dlow%2Dcost%2Dnetwork%2Dbased%2Dhdmi
 ![Image of Project](sch/w55rp20_hdmi_sch2.png)
 
 
-
-[![Video Label](test)](https://youtu.be/-AXGt6dG-68)
+# Test Video
+[![Video Label](image/w55rp20_sys_fw2.png)](https://youtu.be/-AXGt6dG-68)
